@@ -3,10 +3,27 @@
 ### Hi there 👋
 
 ### Welcome to my Github Account.
-#### My name is Obioma. I've been building software since the past
-#### 13 months.
-#### This is my stack:
-      ###### mongodb   
+#### My name is Obioma. I've been building software for the past 13 months.
+#### These are tools and languages I have worked with:
++ Python
++ C
++ Javascript
++ React
+  + React- Redux
+  + Tailwind CSS
+  + React-Router-Dom
++ NodeJs
+  + Express
+  + NextJs
++ Mongoose
++ Postman
++ Insomnia
++ Render
++ TypeScript.
+  ##### As a backend developer, my major interest is building scalable backend web applications that serve multiple users efficiently.
+  ###### You can reach out to me via:
+     [X](https://twitter.com/anthony_ikpe_1)
+   
 
 
 
