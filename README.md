@@ -1,4 +1,4 @@
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+![Benjamin Bannekat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw0mgBtcH2VGl_ZoBGS_PINL&ust=1710543267728000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjP27Ls9IQDFQAAAAAdAAAAABAE)
 
 ### Hi there 👋
 
