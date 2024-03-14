@@ -1,4 +1,4 @@
-![Benjamin Bannekat](https://www.flaticon.com/free-icon/linkedin_174857)
+![linkedIn Account](https://www.flaticon.com/free-icon/linkedin_174857)
 
 ### Hi there 👋
 
