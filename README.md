@@ -22,8 +22,7 @@
 + TypeScript.
   ##### As a backend developer, my major interest is building scalable backend web applications that serve multiple users efficiently.
   #### You can reach out to me via:
-  #####   [X](https://twitter.com/anthony_ikpe_1)
-  #####   [linkedIn](www.linkedin.com/in/godspower-anthony-ikpe-0b38321b1)
+  #####   [X](https://twitter.com/anthony_ikpe_1)     #####   [linkedIn](www.linkedin.com/in/godspower-anthony-ikpe-0b38321b1)
    
 
 
