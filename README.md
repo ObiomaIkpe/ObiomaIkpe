@@ -1,4 +1,4 @@
-![linkedin gif](https://cdn-icons-png.flaticon.com/256/174/174857.png)
+![] (https://cdn-icons-png.flaticon.com/256/174/174857.png)
 
 ### Welcome to my Github Account.
 #### Here you will see the repositories of the projects I've built.
