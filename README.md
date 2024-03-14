@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2liaHc1ZG53dDRrbnUxYWEzZ3JoczhjdnpqOWs0Y3lndmhvNHRmdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jPK3EsIGS9f8YAp2Fa/giphy.gif" width="100"/>
-</div>
-
-()
+![linkedin gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Flinkedin-icon%2F&psig=AOvVaw0z9ahjRKYJe3ZIc_wSepUi&ust=1710541944442000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiTjMHn9IQDFQAAAAAdAAAAABAE)
 
 ### Welcome to my Github Account.
 #### Here you will see the repositories of the projects I've built.
