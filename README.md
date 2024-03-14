@@ -1,4 +1,4 @@
-[![An old rock in the desert](./linkedinIcon.png "Shiprock, LinkedIn Profile Image")]("google.com")
+[![An old rock in the desert](./linkedinIcon.png)]("google.com")
 
 ### Hi there 👋
 
