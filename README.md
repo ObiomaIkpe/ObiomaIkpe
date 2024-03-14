@@ -1,4 +1,4 @@
-![linkedin gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Flinkedin-icon%2F&psig=AOvVaw0z9ahjRKYJe3ZIc_wSepUi&ust=1710541944442000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiTjMHn9IQDFQAAAAAdAAAAABAE)
+![linkedin gif](https://cdn-icons-png.flaticon.com/256/174/174857.png)
 
 ### Welcome to my Github Account.
 #### Here you will see the repositories of the projects I've built.
