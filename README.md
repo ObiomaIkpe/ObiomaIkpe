@@ -2,9 +2,10 @@
 
 
 ### Welcome to my Github Account.
-#### Here you will see the repositories of the projects I've built.
-#### Hang on tight, this will be an interesting ride!
-
+#### My name is Obioma. I've been building software since the past
+#### 13 months.
+#### This is my stack:
+      ###### mongodb   
 
 
 ### Hi there 👋
