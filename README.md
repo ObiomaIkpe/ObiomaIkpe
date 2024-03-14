@@ -1,4 +1,4 @@
-[![An old rock in the desert](./linkedinIcon.png)]("google.com")
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 ### Hi there 👋
 
