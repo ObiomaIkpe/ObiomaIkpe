@@ -1,4 +1,4 @@
-![Benjamin Bannekat](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![Benjamin Bannekat](https://www.flaticon.com/free-icon/linkedin_174857)
 
 ### Hi there 👋
 
