@@ -1,5 +1,3 @@
-[![linkedIn Account]](https://www.flaticon.com/free-icon/linkedin_174857)
-
 ### Hi there 👋
 
 ### Welcome to my Github Account.
@@ -24,7 +22,7 @@
   #### You can reach out to me via:
   #####   [X](https://twitter.com/anthony_ikpe_1) [linkedIn](www.linkedin.com/in/godspower-anthony-ikpe-0b38321b1)
 
-  ##### Would you like to read about the things I love to talk about? 
+  ##### Would you like to read about the things I love to talk about? Check out my hashnode blog (https://everytechway.hashnode.dev)
    
 
 ![image](https://github.com/ObiomaIkpe/ObiomaIkpe/assets/111214429/e119dde8-408a-4192-88d9-edfbe1f83fff)
