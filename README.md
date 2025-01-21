@@ -3,10 +3,7 @@
 
 
 ## I'm a Software Developer
-
-- 👨‍🏫 I enjoy coding. I jog on weekends.
-- 🌱 I'm currently growing my 
-- 👨‍💻 Read my articles at [everytechway.hashnode.com](website)
+ 
 
 
 ### 📚 I often Write About
