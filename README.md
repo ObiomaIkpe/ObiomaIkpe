@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Anthony Ikpe Godspower
 
-I'm a full-stack developer with a strong passion for building meaningful digital experiences and contributing to the future of decentralized technologies—especially across Africa.
+I'm a backend developer with a strong passion for building meaningful digital experiences and contributing to the future of decentralized technologies—especially across Africa.
 
 ### 🛠️ Tech & Tools I Work With
 
@@ -14,12 +14,12 @@ I'm a full-stack developer with a strong passion for building meaningful digital
 I’m committed to:
 - 🌐 Spreading **blockchain adoption across Africa**, creating access and opportunity.
 - 🔒 Advocating for **cybersecurity** and building secure, resilient systems.
-- 📚 Constantly learning—whether it’s cutting-edge tech or thought-provoking books.
+- 📚 Constantly learning—whether it’s cutting-edge tech or reading thought-provoking books.
 
 ### 🧠 A Bit More About Me
 
 - 💡 Naturally **curious**, always open to new challenges and technologies.
-- 🏃‍♂️ Start my mornings with **early jogs**—fueling focus and energy.
+- 🏃‍♂️ Love to start my mornings with **early morning jogs**—fueling focus and energy.
 - 📖 Love reading and thinking deeply about tech, society, and systems.
 
 ---
