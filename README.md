@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Anthony Ikpe Godspower
+## 👋 Hey there! I'm Anthony-Ikpe Godspower Obioma
 
 I'm a backend developer with a strong passion for building meaningful digital experiences and contributing to the future of decentralized technologies—especially across Africa.
 
