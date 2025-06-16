@@ -4,9 +4,9 @@ I'm a backend developer with a strong passion for building meaningful digital ex
 
 ### 🛠️ Tech & Tools I Work With
 
-- **Node.js & Express** – Crafting fast, scalable backend services and RESTful APIs.
-- **Socket.IO & Mediasoup** – Built a **real-time video chat application**, enabling seamless peer-to-peer video communication.
-- **Next.js** – Developing sleek, high-performance frontend applications with React.
+- **Node.js & Express** – Crafting fast, scalable backend services and RESTful APIs.  
+- **NestJS** – Leveraged this progressive Node.js framework to architect **modular, maintainable, and enterprise-grade backend systems**, enhancing scalability and developer productivity.  
+- **Socket.IO & Mediasoup** – Built a **real-time video chat application**, enabling seamless peer-to-peer video communication.  
 - **Blockchain Development** – Built a **carbon credits and offsetting platform** on the **Celo blockchain**, driving climate transparency and impact.
 
 ### 🌍 My Mission
