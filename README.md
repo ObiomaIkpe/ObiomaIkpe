@@ -50,10 +50,10 @@ I'm a Full-Stack Developer specializing in Web3 integration and decentralized ap
 
 ## 📫 Get In Touch
 
-- GitHub: [@yourusername](https://github.com/ObiomaIkpe)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/anthony-ikpe-godspower/)
+- GitHub: [@ObiomaIkpe](https://github.com/ObiomaIkpe)
+- LinkedIn: [Godspower Anthony-Ikpe](https://linkedin.com/in/anthony-ikpe-godspower/)
 - Email: anthonyikpegodspower@gmail.com
-- Twitter: [@yourhandle](https://twitter.com/anthony_ikpe_1)
+- Twitter: [@anthony_ikpe_1](https://twitter.com/anthony_ikpe_1)
 
 ---
 
