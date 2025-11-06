@@ -10,7 +10,7 @@ I'm a Full-Stack Developer specializing in Web3 integration and decentralized ap
 - **Smart Contract Integration**: Wagmi, Viem
 - **Wallet Connectivity**: WalletConnect, MetaMask integration
 - **Development Tools**: Hardhat (compilation, testing, ABI generation)
-- **Contract Interaction**: ethers.js, Web3 libraries
+- **Contract Interaction**: ethers.js, Wagmi Viem
 
 ### Frontend Development
 - **Framework**: React.js
@@ -50,14 +50,14 @@ I'm a Full-Stack Developer specializing in Web3 integration and decentralized ap
 
 ## 📫 Get In Touch
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@yourusername](https://github.com/ObiomaIkpe)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/anthony-ikpe-godspower/)
+- Email: anthonyikpegodspower@gmail.com
+- Twitter: [@yourhandle](https://twitter.com/anthony_ikpe_1)
 
 ---
 
-💡 *Open to collaborating on Web3 projects, decentralized applications, and innovative blockchain solutions.*
+💡 *Open to collaborating on Web3 projects, decentralized applications, and innovative AI powered applications.*
 
 
 
